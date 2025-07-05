@@ -12,6 +12,7 @@ import android.widget.CompoundButton;
 import android.widget.EditText;
 import android.widget.RadioGroup;
 
+import java.text.SimpleDateFormat;
 import androidx.fragment.app.Fragment;
 
 public class CrimeFragment extends Fragment {
